@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [Azure](#Azure_visual-studio-2022-azure-developing), [C#](#C#_ef-core-6-big-picture), [Database](#Database_ef-core-6-big-picture), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing), [DotNet](#DotNet_ef-core-6-big-picture), [Identity](#Identity_web-app-api-protect-by-azure-ad), [MS-Platform](#MS-Platform_microsoft-power-platform-functional-consultant-exam-prep), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos), [Python](#Python_secure-fastapi-ms-identity-platform), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code), [Web](#Web_web-app-api-protect-by-azure-ad).
+Topics: [AWS](#AWS_introduction-aws-lambda), [Azure](#Azure_visual-studio-2022-azure-developing), [C#](#C#_ef-core-6-big-picture), [C-Lang](#C-Lang_c-language-big-picture), [Database](#Database_ef-core-6-big-picture), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing), [Docker](#Docker_docker-web-development), [DotNet](#DotNet_ef-core-6-big-picture), [FuncProg](#FuncProg_functional-programming-big-picture), [Func](#Func_microsoft-azure-developer-implement-azure-functions), [Identity](#Identity_web-app-api-protect-by-azure-ad), [MS-Platform](#MS-Platform_microsoft-power-platform-functional-consultant-exam-prep), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos), [Python](#Python_secure-fastapi-ms-identity-platform), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code), [Web](#Web_web-app-api-protect-by-azure-ad).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -88,7 +88,7 @@ Topics: [Azure](#Azure_azure-developer-create-azure-app-service-web-apps), [Iden
 
 #### [Secure APIs with FastAPI and the Microsoft Identity Platform](https://training.talkpython.fm/courses/secure-apis-with-fastapi-and-the-microsoft-identity-platform)
 
-**Talk Python Training** course by ****
+**Talk Python Training** course by **Christos Matskas**
 
 Completed on **2022-08-22**
 
@@ -191,7 +191,7 @@ Completed on **2022-05-27**
 
 [Certificate of Completion](documents/certificate-dot-net-6-applications-cross-platform-tooling.pdf)
 
-Topics: C#, [DotNet](#DotNet_dotnet-document-databases-marten-getting-started)
+Topics: [C#](#C#_securing-secrets-asp-net-core), [DotNet](#DotNet_dotnet-document-databases-marten-getting-started)
 
 ---
 
@@ -290,7 +290,7 @@ Completed on **2021-05-17**
 
 [Certificate of Completion](documents/certificate-supercharging-git-workflow.pdf)
 
-Topics: [Dev-tools](#Dev-tools_cross-platform-sql-server-vs-code)
+Topics: [Dev-tools](#Dev-tools_visual-studio-2019-getting-started)
 
 ---
 
@@ -336,7 +336,7 @@ Topics: [Web](#Web_fastapi-apps)
 
 ---
 
-<a name="Azure_microsoft-azure-developer-implement-azure-functions"></a> 
+<a name="Azure_microsoft-azure-developer-implement-azure-functions"></a> <a name="Func_microsoft-azure-developer-implement-azure-functions"></a> 
 
 #### [Microsoft Azure Developer: Implement Azure Functions](https://www.pluralsight.com/courses/microsoft-azure-developer-implement-azure-functions)
 
@@ -346,11 +346,11 @@ Completed on **2021-04-27**
 
 [Certificate of Completion](documents/certificate-microsoft-azure-developer-implement-azure-functions.pdf)
 
-Topics: [Azure](#Azure_azure-durable-functions-fundamentals)
+Topics: [Azure](#Azure_azure-durable-functions-fundamentals), [Func](#Func_azure-durable-functions-fundamentals)
 
 ---
 
-<a name="Azure_azure-durable-functions-fundamentals"></a> 
+<a name="Azure_azure-durable-functions-fundamentals"></a> <a name="Func_azure-durable-functions-fundamentals"></a> 
 
 #### [Azure Durable Functions Fundamentals](https://www.pluralsight.com/courses/azure-durable-functions-fundamentals)
 
@@ -362,7 +362,7 @@ Completed on **2021-04-24**
 
 > This course was very helpful in understanding Azure Functions. Durable functions afford orchestrated workflows with multiple steps. Also, I was aware of the author, Mark Heath, from his previous work creating the Naudio library for .NET.
 
-Topics: [Azure](#Azure_microsoft-azure-virtual-machines-provisioning)
+Topics: [Azure](#Azure_microsoft-azure-solutions-architect-implement-sql-databases-strategy), [Func](#Func_introduction-aws-lambda)
 
 ---
 
@@ -376,9 +376,11 @@ Completed on **2021-04-06**
 
 [Certificate of Completion](documents/certificate-entity-framework-core-get-started.pdf)
 
-Topics: Database, DotNet
+Topics: [Database](#Database_microsoft-azure-solutions-architect-implement-sql-databases-strategy), [DotNet](#DotNet_securing-secrets-asp-net-core)
 
 ---
+
+<a name="Azure_microsoft-azure-solutions-architect-implement-sql-databases-strategy"></a> <a name="Database_microsoft-azure-solutions-architect-implement-sql-databases-strategy"></a> 
 
 #### [Microsoft Azure Solutions Architect: Implement an Azure SQL Databases Strategy](https://www.pluralsight.com/courses/microsoft-azure-solutions-architect-implement-sql-databases-strategy)
 
@@ -387,6 +389,8 @@ Topics: Database, DotNet
 Completed on **2021-04-01**
 
 [Certificate of Completion](documents/certificate-microsoft-azure-solutions-architect-implement-sql-databases-strategy.pdf)
+
+Topics: [Azure](#Azure_microsoft-azure-virtual-machines-provisioning), Database
 
 ---
 
@@ -403,6 +407,8 @@ Topics: [Python](#Python_modern-api-fastapi-python), [Web](#Web_modern-api-fasta
 
 ---
 
+<a name="Dev-tools_visual-studio-2019-getting-started"></a> 
+
 #### [Visual Studio 2019 Getting Started](https://www.pluralsight.com/courses/visual-studio-2019-getting-started)
 
 **Pluralsight** course by **Kate Gregory**
@@ -410,6 +416,8 @@ Topics: [Python](#Python_modern-api-fastapi-python), [Web](#Web_modern-api-fasta
 Completed on **2021-03-22**
 
 [Certificate of Completion](documents/certificate-visual-studio-2019-getting-started.pdf)
+
+Topics: [Dev-tools](#Dev-tools_cross-platform-sql-server-vs-code)
 
 ---
 
@@ -422,7 +430,7 @@ Completed on **2021-03-22**
 Completed on **2021-03-12**
 
 
-Topics: Python, Web
+Topics: Python, [Web](#Web_docker-web-development)
 
 ---
 
@@ -436,9 +444,11 @@ Completed on **2021-02-22**
 
 [Certificate of Completion](documents/certificate-cross-platform-sql-server-vs-code.pdf)
 
-Topics: Dev-tools, SQL-Server
+Topics: [Dev-tools](#Dev-tools_docker-web-development), SQL-Server
 
 ---
+
+<a name="C-Lang_c-language-big-picture"></a> 
 
 #### [C Language: The Big Picture](https://www.pluralsight.com/courses/c-language-big-picture)
 
@@ -448,7 +458,11 @@ Completed on **2021-01-21**
 
 [Certificate of Completion](documents/certificate-c-language-big-picture.pdf)
 
+Topics: C-Lang
+
 ---
+
+<a name="AWS_introduction-aws-lambda"></a> <a name="Func_introduction-aws-lambda"></a> 
 
 #### [Introduction to AWS Lambda](https://www.pluralsight.com/courses/introduction-aws-lambda)
 
@@ -458,7 +472,11 @@ Completed on **2020-12-28**
 
 [Certificate of Completion](documents/certificate-introduction-aws-lambda.pdf)
 
+Topics: AWS, Func
+
 ---
+
+<a name="Dev-tools_docker-web-development"></a> <a name="Docker_docker-web-development"></a> <a name="Web_docker-web-development"></a> 
 
 #### [Docker for Web Developers](https://www.pluralsight.com/courses/docker-web-development)
 
@@ -468,7 +486,11 @@ Completed on **2020-12-10**
 
 [Certificate of Completion](documents/certificate-docker-web-development.pdf)
 
+Topics: Dev-tools, Docker, [Web](#Web_html-forms-creating)
+
 ---
+
+<a name="Web_html-forms-creating"></a> 
 
 #### [Creating Forms in HTML](https://www.pluralsight.com/courses/html-forms-creating)
 
@@ -477,6 +499,8 @@ Completed on **2020-12-10**
 Completed on **2020-11-24**
 
 [Certificate of Completion](documents/certificate-html-forms-creating.pdf)
+
+Topics: [Web](#Web_securing-secrets-asp-net-core)
 
 ---
 
@@ -508,6 +532,8 @@ Topics: PowerShell
 
 ---
 
+<a name="C#_securing-secrets-asp-net-core"></a> <a name="DotNet_securing-secrets-asp-net-core"></a> <a name="Web_securing-secrets-asp-net-core"></a> 
+
 #### [Securing Application Secrets in ASP.NET Core 3](https://www.pluralsight.com/courses/securing-application-secrets-in-asp-net-core)
 
 **Pluralsight** course by **Matt Tester**
@@ -516,7 +542,11 @@ Completed on **2020-07-06**
 
 [Certificate of Completion](documents/certificate-securing-secrets-asp-net-core.pdf)
 
+Topics: C#, DotNet, Web
+
 ---
+
+<a name="FuncProg_functional-programming-big-picture"></a> 
 
 #### [Functional Programming: The Big Picture](https://www.pluralsight.com/courses/functional-programming-big-picture)
 
@@ -525,6 +555,8 @@ Completed on **2020-07-06**
 Completed on **2020-03-07**
 
 [Certificate of Completion](documents/certificate-functional-programming-big-picture.pdf)
+
+Topics: FuncProg
 
 ---
 
