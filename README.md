@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda), [Azure](#Azure_microsoft-azure-developer-develop-solutions-blob-storage), [C#](#C#_ef-core-6-big-picture), [C-Lang](#C-Lang_c-language-big-picture), [Database](#Database_ef-core-6-big-picture), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing), [Docker](#Docker_docker-web-development), [DotNet](#DotNet_ef-core-6-big-picture), [FuncProg](#FuncProg_functional-programming-big-picture), [Func](#Func_microsoft-azure-developer-implement-azure-functions), [Identity](#Identity_web-app-api-protect-by-azure-ad), [MS-Platform](#MS-Platform_microsoft-power-platform-functional-consultant-exam-prep), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos), [Python](#Python_secure-fastapi-ms-identity-platform), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code), [Web](#Web_web-app-api-protect-by-azure-ad).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_microsoft-azure-developer-develop-solutions-blob-storage) (9), [C#](#C#_ef-core-6-big-picture) (6), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_ef-core-6-big-picture) (9), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_web-app-api-protect-by-azure-ad) (2), [MS-Platform](#MS-Platform_microsoft-power-platform-functional-consultant-exam-prep) (2), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_web-app-api-protect-by-azure-ad) (14).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -574,3 +574,4 @@ Topics: FuncProg
 
 ---
 
+39 courses listed.
