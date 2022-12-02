@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_microsoft-azure-developer-develop-solutions-blob-storage) (9), [C#](#C#_ef-core-6-big-picture) (6), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_ef-core-6-big-picture) (9), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_web-app-api-protect-by-azure-ad) (2), [MS-Platform](#MS-Platform_microsoft-power-platform-functional-consultant-exam-prep) (2), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_web-app-api-protect-by-azure-ad) (14).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_microsoft-azure-developer-develop-solutions-blob-storage) (10), [C#](#C#_ef-core-6-big-picture) (6), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_ef-core-6-big-picture) (9), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_msft-security-compliance-identity-fundamentals-exam-intro) (4), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_web-app-api-protect-by-azure-ad) (14).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -36,7 +36,21 @@ Completed on **2022-11-17**
 
 [Certificate of Completion](documents/certificate-microsoft-azure-developer-develop-solutions-blob-storage.pdf)
 
-Topics: [Azure](#Azure_visual-studio-2022-azure-developing)
+Topics: [Azure](#Azure_msft-security-compliance-identity-fundamentals-exam-intro)
+
+---
+
+<a name="Azure_msft-security-compliance-identity-fundamentals-exam-intro"></a> <a name="Identity_msft-security-compliance-identity-fundamentals-exam-intro"></a> 
+
+#### [Introduction to the Microsoft Security, Compliance, and Identity Fundamentals (SC-900) Exam](https://www.pluralsight.com/courses/msft-security-compliance-identity-fundamentals-exam-intro)
+
+**Pluralsight** course by **Vlad Catrinescu**
+
+Completed on **2022-11-10**
+
+[Certificate of Completion](documents/certificate-msft-security-compliance-identity-fundamentals-exam-intro.pdf)
+
+Topics: [Azure](#Azure_visual-studio-2022-azure-developing), [Identity](#Identity_identity-management-authentication-access-control-pfsense)
 
 ---
 
@@ -54,19 +68,19 @@ Topics: [Azure](#Azure_web-app-api-protect-by-azure-ad), [Dev-tools](#Dev-tools_
 
 ---
 
-<a name="MS-Platform_microsoft-power-platform-functional-consultant-exam-prep"></a> 
+<a name="Identity_identity-management-authentication-access-control-pfsense"></a> <a name="Network_identity-management-authentication-access-control-pfsense"></a> 
 
-#### [Microsoft Power Platform Functional Consultant: Preparing to take the PL-200 Exam](https://www.pluralsight.com/courses/microsoft-power-platform-functional-consultant-exam-prep)
+#### [Identity Management, Authentication and Access Control with pfSense](https://www.pluralsight.com/courses/identity-management-authentication-access-control-pfsense)
 
-**Pluralsight** course by **Vlad Catrinescu**
+**Pluralsight** course by **Joe Abraham**
 
-Completed on **2022-09-12**
+Completed on **2022-09-14**
 
-[Certificate of Completion](documents/certificate-microsoft-power-platform-functional-consultant-exam-prep.pdf)
+[Certificate of Completion](documents/certificate-identity-management-authentication-access-control-pfsense.pdf)
 
-> This course was a good overview of the Microsoft Power Platform. Not actually preparing for the PL-200 Exam.
+> I use pfSense in my home network and I want to know more about its capabilities.
 
-Topics: [MS-Platform](#MS-Platform_power-platform-core-components)
+Topics: [Identity](#Identity_web-app-api-protect-by-azure-ad), Network
 
 ---
 
@@ -574,4 +588,4 @@ Topics: FuncProg
 
 ---
 
-39 courses listed.
+40 courses listed.
