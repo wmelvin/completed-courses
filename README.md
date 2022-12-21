@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_microsoft-azure-developer-develop-solutions-blob-storage) (10), [C#](#C#_ef-core-6-big-picture) (6), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_ef-core-6-big-picture) (9), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_msft-security-compliance-identity-fundamentals-exam-intro) (4), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_web-app-api-protect-by-azure-ad) (14).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-oauth2-openid-connect) (11), [C#](#C#_aspnetcore6-oauth2-openid-connect) (7), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_ef-core-6-big-picture) (9), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_aspnetcore6-oauth2-openid-connect) (5), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_aspnetcore6-oauth2-openid-connect) (15).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -23,6 +23,20 @@ Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_microsoft-azure-
 ---
 
 ## Courses
+
+---
+
+<a name="Azure_aspnetcore6-oauth2-openid-connect"></a> <a name="C#_aspnetcore6-oauth2-openid-connect"></a> <a name="Identity_aspnetcore6-oauth2-openid-connect"></a> <a name="Web_aspnetcore6-oauth2-openid-connect"></a> 
+
+#### [Securing ASP.NET Core 6 with OAuth2 and OpenID Connect](https://www.pluralsight.com/courses/asp-dot-net-core-6-securing-oauth-2-openid-connect)
+
+**Pluralsight** course by **Kevin Dockx**
+
+Completed on **2022-12-19**
+
+[Certificate of Completion](documents/certificate-aspnetcore6-oauth2-openid-connect.pdf)
+
+Topics: [Azure](#Azure_microsoft-azure-developer-develop-solutions-blob-storage), [C#](#C#_ef-core-6-big-picture), [Identity](#Identity_msft-security-compliance-identity-fundamentals-exam-intro), [Web](#Web_web-app-api-protect-by-azure-ad)
 
 ---
 
@@ -588,4 +602,4 @@ Topics: FuncProg
 
 ---
 
-40 courses listed.
+41 courses listed.

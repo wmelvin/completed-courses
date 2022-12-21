@@ -1,5 +1,6 @@
 | TITLE                                                                                       | PROVIDER             | COMPLETED  |
 | ------------------------------------------------------------------------------------------- | -------------------- | ---------- |
+| Securing ASP.NET Core 6 with OAuth2 and OpenID Connect                                      | Pluralsight          | 2022-12-19 |
 | Microsoft Azure Developer: Develop Solutions with Blob Storage                              | Pluralsight          | 2022-11-17 |
 | Introduction to the Microsoft Security, Compliance, and Identity Fundamentals (SC-900) Exam | Pluralsight          | 2022-11-10 |
 | Developing for Azure with Visual Studio 2022                                                | Pluralsight          | 2022-09-23 |
