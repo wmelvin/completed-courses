@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-oauth2-openid-connect) (11), [C#](#C#_aspnetcore6-oauth2-openid-connect) (7), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_ef-core-6-big-picture) (9), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_aspnetcore6-oauth2-openid-connect) (5), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_aspnetcore6-oauth2-openid-connect) (15).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-azure-appserv) (12), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_aspnetcore6-azure-appserv) (16).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -23,6 +23,22 @@ Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-oaut
 ---
 
 ## Courses
+
+---
+
+<a name="Azure_aspnetcore6-azure-appserv"></a> <a name="C#_aspnetcore6-azure-appserv"></a> <a name="DotNet_aspnetcore6-azure-appserv"></a> <a name="Identity_aspnetcore6-azure-appserv"></a> <a name="Web_aspnetcore6-azure-appserv"></a> 
+
+#### [Deploying ASP.NET Core 6 to Azure App Services](https://www.pluralsight.com/courses/asp-dot-net-core-6-azure-app-services-deploying)
+
+**Pluralsight** course by **Neil Morrissey**
+
+Completed on **2023-01-05**
+
+[Certificate of Completion](documents/certificate-aspnetcore6-azure-appserv.pdf)
+
+> Covered a lot of material. Touched on using both GitHub Actions and Azure DevOps pipelines for deployment.
+
+Topics: [Azure](#Azure_aspnetcore6-oauth2-openid-connect), [C#](#C#_aspnetcore6-oauth2-openid-connect), [DotNet](#DotNet_ef-core-6-big-picture), [Identity](#Identity_aspnetcore6-oauth2-openid-connect), [Web](#Web_aspnetcore6-oauth2-openid-connect)
 
 ---
 
@@ -602,4 +618,4 @@ Topics: FuncProg
 
 ---
 
-41 courses listed.
+42 courses listed.

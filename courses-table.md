@@ -1,5 +1,6 @@
 | TITLE                                                                                       | PROVIDER             | COMPLETED  |
 | ------------------------------------------------------------------------------------------- | -------------------- | ---------- |
+| Deploying ASP.NET Core 6 to Azure App Services                                              | Pluralsight          | 2023-01-05 |
 | Securing ASP.NET Core 6 with OAuth2 and OpenID Connect                                      | Pluralsight          | 2022-12-19 |
 | Microsoft Azure Developer: Develop Solutions with Blob Storage                              | Pluralsight          | 2022-11-17 |
 | Introduction to the Microsoft Security, Compliance, and Identity Fundamentals (SC-900) Exam | Pluralsight          | 2022-11-10 |
