@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-azure-appserv) (12), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_aspnetcore6-azure-appserv) (16).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-azure-appserv) (12), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [React](#React_react-18-fundamentals) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -23,6 +23,20 @@ Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-azur
 ---
 
 ## Courses
+
+---
+
+<a name="Javascript_react-18-fundamentals"></a> <a name="React_react-18-fundamentals"></a> <a name="Web_react-18-fundamentals"></a> 
+
+#### [React 18 Fundamentals](https://www.pluralsight.com/courses/react-18-fundamentals)
+
+**Pluralsight** course by **Roland Guijt**
+
+Completed on **2023-06-02**
+
+[Certificate of Completion](documents/certificate-react-18-fundamentals.pdf)
+
+Topics: Javascript, React, [Web](#Web_aspnetcore6-azure-appserv)
 
 ---
 
@@ -618,4 +632,4 @@ Topics: FuncProg
 
 ---
 
-42 courses listed.
+43 courses listed.
