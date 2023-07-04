@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-azure-appserv) (12), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_ef-core-6-big-picture) (8), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_secure-fastapi-ms-identity-platform) (4), [React](#React_react-18-fundamentals) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-azure-appserv) (12), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_python-3-working-databases) (9), [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing) (5), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [ODM](#ODM_python-3-working-databases) (1), [ORM](#ORM_python-3-working-databases) (3), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_python-3-working-databases) (5), [React](#React_react-18-fundamentals) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -23,6 +23,22 @@ Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-azur
 ---
 
 ## Courses
+
+---
+
+<a name="Database_python-3-working-databases"></a> <a name="ODM_python-3-working-databases"></a> <a name="ORM_python-3-working-databases"></a> <a name="Python_python-3-working-databases"></a> 
+
+#### [Working with Databases in Python 3](https://www.pluralsight.com/courses/python-3-working-databases)
+
+**Pluralsight** course by **Douglas Starnes**
+
+Completed on **2023-06-30**
+
+[Certificate of Completion](documents/certificate-python-3-working-databases.pdf)
+
+> Covers working with SQLite, PostgreSQL, and MongoDB databases using sqlite3, psycopg2, SQLAlchemy, Mongita, pymongo, and MongoEngine.
+
+Topics: [Database](#Database_ef-core-6-big-picture), ODM, [ORM](#ORM_ef-core-6-big-picture), [Python](#Python_secure-fastapi-ms-identity-platform)
 
 ---
 
@@ -128,7 +144,7 @@ Topics: [Identity](#Identity_web-app-api-protect-by-azure-ad), Network
 
 ---
 
-<a name="C#_ef-core-6-big-picture"></a> <a name="Database_ef-core-6-big-picture"></a> <a name="DotNet_ef-core-6-big-picture"></a> 
+<a name="C#_ef-core-6-big-picture"></a> <a name="Database_ef-core-6-big-picture"></a> <a name="DotNet_ef-core-6-big-picture"></a> <a name="ORM_ef-core-6-big-picture"></a> 
 
 #### [EF Core 6: The Big Picture](https://www.pluralsight.com/courses/ef-core-6-big-picture)
 
@@ -138,7 +154,7 @@ Completed on **2022-09-08**
 
 [Certificate of Completion](documents/certificate-ef-core-6-big-picture.pdf)
 
-Topics: [C#](#C#_asp-dot-net-core-6-fundamentals), [Database](#Database_posgresql-functions-playbook), [DotNet](#DotNet_asp-dot-net-core-6-fundamentals)
+Topics: [C#](#C#_asp-dot-net-core-6-fundamentals), [Database](#Database_posgresql-functions-playbook), [DotNet](#DotNet_asp-dot-net-core-6-fundamentals), [ORM](#ORM_entity-framework-core-get-started)
 
 ---
 
@@ -438,7 +454,7 @@ Topics: [Azure](#Azure_microsoft-azure-solutions-architect-implement-sql-databas
 
 ---
 
-<a name="Database_entity-framework-core-get-started"></a> <a name="DotNet_entity-framework-core-get-started"></a> 
+<a name="Database_entity-framework-core-get-started"></a> <a name="DotNet_entity-framework-core-get-started"></a> <a name="ORM_entity-framework-core-get-started"></a> 
 
 #### [Entity Framework Core 5: Getting Started](https://www.pluralsight.com/courses/entity-framework-core-get-started)
 
@@ -448,7 +464,7 @@ Completed on **2021-04-06**
 
 [Certificate of Completion](documents/certificate-entity-framework-core-get-started.pdf)
 
-Topics: [Database](#Database_microsoft-azure-solutions-architect-implement-sql-databases-strategy), [DotNet](#DotNet_securing-secrets-asp-net-core)
+Topics: [Database](#Database_microsoft-azure-solutions-architect-implement-sql-databases-strategy), [DotNet](#DotNet_securing-secrets-asp-net-core), ORM
 
 ---
 
@@ -632,4 +648,4 @@ Topics: FuncProg
 
 ---
 
-43 courses listed.
+44 courses listed.

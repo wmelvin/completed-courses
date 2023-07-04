@@ -1,5 +1,6 @@
 | TITLE                                                                                       | PROVIDER             | COMPLETED  |
 | ------------------------------------------------------------------------------------------- | -------------------- | ---------- |
+| Working with Databases in Python 3                                                          | Pluralsight          | 2023-06-30 |
 | React 18 Fundamentals                                                                       | Pluralsight          | 2023-06-02 |
 | Deploying ASP.NET Core 6 to Azure App Services                                              | Pluralsight          | 2023-01-05 |
 | Securing ASP.NET Core 6 with OAuth2 and OpenID Connect                                      | Pluralsight          | 2022-12-19 |
