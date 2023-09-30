@@ -1,5 +1,6 @@
 | TITLE                                                                                       | PROVIDER             | COMPLETED  |
 | ------------------------------------------------------------------------------------------- | -------------------- | ---------- |
+| The IT Ops Sessions: GitHub Copilot for the IT Operations Professional                      | Pluralsight          | 2023-09-28 |
 | Working with Databases in Python 3                                                          | Pluralsight          | 2023-06-30 |
 | React 18 Fundamentals                                                                       | Pluralsight          | 2023-06-02 |
 | Deploying ASP.NET Core 6 to Azure App Services                                              | Pluralsight          | 2023-01-05 |
