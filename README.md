@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-azure-appserv) (12), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_python-3-working-databases) (9), [Dev-tools](#Dev-tools_github-copilot-it-ops-pro) (6), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Github](#Github_github-copilot-it-ops-pro) (1), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [ODM](#ODM_python-3-working-databases) (1), [ORM](#ORM_python-3-working-databases) (3), [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos) (1), [Python](#Python_python-3-working-databases) (5), [React](#React_react-18-fundamentals) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperative-vm-implement) (13), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_python-3-working-databases) (9), [Dev-tools](#Dev-tools_linux-using-generative-ai-troubleshoot) (7), [DevOps](#DevOps_ms-azure-imperative-vm-implement) (1), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Github-Copilpt](#Github-Copilpt_linux-using-generative-ai-troubleshoot) (2), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [ODM](#ODM_python-3-working-databases) (1), [ORM](#ORM_python-3-working-databases) (3), [PowerShell](#PowerShell_ms-azure-imperative-vm-implement) (2), [Python](#Python_python-3-working-databases) (5), [React](#React_react-18-fundamentals) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -26,7 +26,35 @@ Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_aspnetcore6-azur
 
 ---
 
-<a name="Dev-tools_github-copilot-it-ops-pro"></a> <a name="Github_github-copilot-it-ops-pro"></a> 
+<a name="Dev-tools_linux-using-generative-ai-troubleshoot"></a> <a name="Github-Copilpt_linux-using-generative-ai-troubleshoot"></a> 
+
+#### [Using Generative AI to Troubleshoot Linux](https://www.pluralsight.com/courses/linux-using-generative-ai-troubleshoot)
+
+**Pluralsight** course by **Tim Warner**
+
+Completed on **2023-11-05**
+
+[Certificate of Completion](documents/certificate-linux-using-generative-ai-troubleshoot.pdf)
+
+Topics: [Dev-tools](#Dev-tools_github-copilot-it-ops-pro), [Github-Copilpt](#Github-Copilpt_github-copilot-it-ops-pro)
+
+---
+
+<a name="Azure_ms-azure-imperative-vm-implement"></a> <a name="DevOps_ms-azure-imperative-vm-implement"></a> <a name="PowerShell_ms-azure-imperative-vm-implement"></a> 
+
+#### [Implement Imperative Virtual Machine Configuration Management](https://www.pluralsight.com/courses/microsoft-azure-imperative-vm-implement)
+
+**Pluralsight** course by **John Savill**
+
+Completed on **2023-11-03**
+
+[Certificate of Completion](documents/certificate-ms-azure-imperative-vm-implement.pdf)
+
+Topics: [Azure](#Azure_aspnetcore6-azure-appserv), DevOps, [PowerShell](#PowerShell_getting-started-powershell-core-linux-macos)
+
+---
+
+<a name="Dev-tools_github-copilot-it-ops-pro"></a> <a name="Github-Copilpt_github-copilot-it-ops-pro"></a> 
 
 #### [The IT Ops Sessions: GitHub Copilot for the IT Operations Professional](https://www.pluralsight.com/courses/github-copilot-it-operations-professional-it-ops-sessions)
 
@@ -36,7 +64,7 @@ Completed on **2023-09-28**
 
 [Certificate of Completion](documents/certificate-github-copilot-it-ops-pro.pdf)
 
-Topics: [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing), Github
+Topics: [Dev-tools](#Dev-tools_visual-studio-2022-azure-developing), Github-Copilpt
 
 ---
 
@@ -662,4 +690,4 @@ Topics: FuncProg
 
 ---
 
-45 courses listed.
+47 courses listed.
