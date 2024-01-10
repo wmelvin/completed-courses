@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperative-vm-implement) (13), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_python-3-working-databases) (9), [Dev-tools](#Dev-tools_linux-using-generative-ai-troubleshoot) (7), [DevOps](#DevOps_ms-azure-imperative-vm-implement) (1), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Github-Copilpt](#Github-Copilpt_linux-using-generative-ai-troubleshoot) (2), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [ODM](#ODM_python-3-working-databases) (1), [ORM](#ORM_python-3-working-databases) (3), [PowerShell](#PowerShell_ms-azure-imperative-vm-implement) (2), [Python](#Python_python-3-working-databases) (5), [React](#React_react-18-fundamentals) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperative-vm-implement) (13), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_python-3-working-databases) (9), [Dev-tools](#Dev-tools_rust-big-picture) (8), [DevOps](#DevOps_ms-azure-imperative-vm-implement) (1), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Github-Copilpt](#Github-Copilpt_linux-using-generative-ai-troubleshoot) (2), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [ODM](#ODM_python-3-working-databases) (1), [ORM](#ORM_python-3-working-databases) (3), [PowerShell](#PowerShell_ms-azure-imperative-vm-implement) (2), [Python](#Python_python-3-working-databases) (5), [React](#React_react-18-fundamentals) (1), [Rust](#Rust_rust-big-picture) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -23,6 +23,20 @@ Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperat
 ---
 
 ## Courses
+
+---
+
+<a name="Dev-tools_rust-big-picture"></a> <a name="Rust_rust-big-picture"></a> 
+
+#### [Rust: The Big Picture](https://www.pluralsight.com/courses/rust-big-picture)
+
+**Pluralsight** course by **Mike Woodring**
+
+Completed on **2024-01-10**
+
+[Certificate of Completion](documents/certificate-rust-big-picture.pdf)
+
+Topics: [Dev-tools](#Dev-tools_linux-using-generative-ai-troubleshoot), Rust
 
 ---
 
@@ -690,4 +704,4 @@ Topics: FuncProg
 
 ---
 
-47 courses listed.
+48 courses listed.

@@ -1,5 +1,6 @@
 | TITLE                                                                                       | PROVIDER             | COMPLETED  |
 | ------------------------------------------------------------------------------------------- | -------------------- | ---------- |
+| Rust: The Big Picture                                                                       | Pluralsight          | 2024-01-10 |
 | Using Generative AI to Troubleshoot Linux                                                   | Pluralsight          | 2023-11-05 |
 | Implement Imperative Virtual Machine Configuration Management                               | Pluralsight          | 2023-11-03 |
 | The IT Ops Sessions: GitHub Copilot for the IT Operations Professional                      | Pluralsight          | 2023-09-28 |
