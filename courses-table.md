@@ -1,5 +1,6 @@
 | TITLE                                                                                       | PROVIDER             | COMPLETED  |
 | ------------------------------------------------------------------------------------------- | -------------------- | ---------- |
+| Recurrent Neural Networks (RNNs): Deep Learning for Sequences and Time Series               | Pluralsight          | 2024-01-11 |
 | Rust: The Big Picture                                                                       | Pluralsight          | 2024-01-10 |
 | Using Generative AI to Troubleshoot Linux                                                   | Pluralsight          | 2023-11-05 |
 | Implement Imperative Virtual Machine Configuration Management                               | Pluralsight          | 2023-11-03 |

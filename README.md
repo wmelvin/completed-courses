@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperative-vm-implement) (13), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Database](#Database_python-3-working-databases) (9), [Dev-tools](#Dev-tools_rust-big-picture) (8), [DevOps](#DevOps_ms-azure-imperative-vm-implement) (1), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Github-Copilpt](#Github-Copilpt_linux-using-generative-ai-troubleshoot) (2), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [ODM](#ODM_python-3-working-databases) (1), [ORM](#ORM_python-3-working-databases) (3), [PowerShell](#PowerShell_ms-azure-imperative-vm-implement) (2), [Python](#Python_python-3-working-databases) (5), [React](#React_react-18-fundamentals) (1), [Rust](#Rust_rust-big-picture) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperative-vm-implement) (13), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Data](#Data_recurrent-neural-networks) (1), [Database](#Database_python-3-working-databases) (9), [Dev-tools](#Dev-tools_rust-big-picture) (8), [DevOps](#DevOps_ms-azure-imperative-vm-implement) (1), [Docker](#Docker_docker-web-development) (1), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Github-Copilpt](#Github-Copilpt_linux-using-generative-ai-troubleshoot) (2), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [ML](#ML_recurrent-neural-networks) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [ODM](#ODM_python-3-working-databases) (1), [ORM](#ORM_python-3-working-databases) (3), [PowerShell](#PowerShell_ms-azure-imperative-vm-implement) (2), [Python](#Python_python-3-working-databases) (5), [React](#React_react-18-fundamentals) (1), [Rust](#Rust_rust-big-picture) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -23,6 +23,22 @@ Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperat
 ---
 
 ## Courses
+
+---
+
+<a name="Data_recurrent-neural-networks"></a> <a name="ML_recurrent-neural-networks"></a> 
+
+#### [Recurrent Neural Networks (RNNs): Deep Learning for Sequences and Time Series](https://www.pluralsight.com/courses/rnns-deep-learning-sequences-time-series)
+
+**Pluralsight** course by **Pinal Dave**
+
+Completed on **2024-01-11**
+
+[Certificate of Completion](documents/certificate-recurrent-neural-networks.pdf)
+
+> This short course covered the topic at a high level. The exercise files include a couple Jupyter notebooks with working examples. Those provide good starting point for doing further research on the packages, models, and methods used.
+
+Topics: Data, ML
 
 ---
 
@@ -704,4 +720,4 @@ Topics: FuncProg
 
 ---
 
-48 courses listed.
+49 courses listed.
