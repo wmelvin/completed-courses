@@ -24,6 +24,8 @@ Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperat
 
 ## Courses
 
+A summary of the list below is also available as a [table](./courses-table.md).
+
 ---
 
 <a name="Dev-tools_docker-compose"></a> <a name="Docker_docker-compose"></a> 
