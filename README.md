@@ -15,7 +15,7 @@ While the topics appear somewhat scattered (okay, they're scattered), building s
 
 ## Topics
 
-Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperative-vm-implement) (13), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Data](#Data_recurrent-neural-networks) (1), [Database](#Database_python-3-working-databases) (9), [Dev-tools](#Dev-tools_docker-compose) (9), [DevOps](#DevOps_ms-azure-imperative-vm-implement) (1), [Docker](#Docker_docker-compose) (2), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Github-Copilpt](#Github-Copilpt_linux-using-generative-ai-troubleshoot) (2), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [ML](#ML_recurrent-neural-networks) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [ODM](#ODM_python-3-working-databases) (1), [ORM](#ORM_python-3-working-databases) (3), [PowerShell](#PowerShell_ms-azure-imperative-vm-implement) (2), [Python](#Python_python-3-working-databases) (5), [React](#React_react-18-fundamentals) (1), [Rust](#Rust_rust-big-picture) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
+Topics: [AWS](#AWS_introduction-aws-lambda) (1), [Azure](#Azure_ms-azure-imperative-vm-implement) (13), [C#](#C#_aspnetcore6-azure-appserv) (8), [C-Lang](#C-Lang_c-language-big-picture) (1), [Data](#Data_recurrent-neural-networks) (1), [Database](#Database_python-3-working-databases) (9), [Dev-tools](#Dev-tools_docker-compose) (9), [DevOps](#DevOps_ms-azure-imperative-vm-implement) (1), [Docker](#Docker_docker-compose) (2), [DotNet](#DotNet_aspnetcore6-azure-appserv) (10), [FuncProg](#FuncProg_functional-programming-big-picture) (1), [Func](#Func_microsoft-azure-developer-implement-azure-functions) (3), [Github-Copilpt](#Github-Copilpt_linux-using-generative-ai-troubleshoot) (2), [Identity](#Identity_aspnetcore6-azure-appserv) (6), [Javascript](#Javascript_react-18-fundamentals) (1), [ML](#ML_recurrent-neural-networks) (1), [MS-Platform](#MS-Platform_power-platform-core-components) (1), [Network](#Network_identity-management-authentication-access-control-pfsense) (1), [ODM](#ODM_python-3-working-databases) (1), [ORM](#ORM_python-3-working-databases) (3), [PostgreSQL](#PostgreSQL_posgresql-functions-playbook) (3), [PowerShell](#PowerShell_ms-azure-imperative-vm-implement) (2), [Python](#Python_python-3-working-databases) (5), [React](#React_react-18-fundamentals) (1), [Rust](#Rust_rust-big-picture) (1), [SQL-Server](#SQL-Server_cross-platform-sql-server-vs-code) (1), [Web](#Web_react-18-fundamentals) (17).
 
 <sub>Note: Links are to the next item in the document with a given *topic*.</sub>
 
@@ -273,7 +273,7 @@ Topics: Identity, [Python](#Python_static-sites-sphinx-markdown), [Web](#Web_asp
 
 ---
 
-<a name="Database_posgresql-functions-playbook"></a> 
+<a name="Database_posgresql-functions-playbook"></a> <a name="PostgreSQL_posgresql-functions-playbook"></a> 
 
 #### [PostgreSQL Functions Playbook](https://www.pluralsight.com/courses/posgresql-functions-playbook)
 
@@ -283,7 +283,7 @@ Completed on **2022-08-19**
 
 [Certificate of Completion](documents/certificate-posgresql-functions-playbook.pdf)
 
-Topics: [Database](#Database_creating-managing-first-couchbase-cluster)
+Topics: [Database](#Database_creating-managing-first-couchbase-cluster), [PostgreSQL](#PostgreSQL_postgresql-playbook)
 
 ---
 
@@ -400,7 +400,7 @@ Topics: [Database](#Database_postgresql-playbook)
 
 ---
 
-<a name="Database_postgresql-playbook"></a> 
+<a name="Database_postgresql-playbook"></a> <a name="PostgreSQL_postgresql-playbook"></a> 
 
 #### [PostgreSQL Playbook for Developer DBAs](https://www.pluralsight.com/courses/postgresql-playbook)
 
@@ -410,11 +410,11 @@ Completed on **2022-01-26**
 
 [Certificate of Completion](documents/certificate-postgresql-playbook.pdf)
 
-Topics: [Database](#Database_postgresql-advanced-server-programming)
+Topics: [Database](#Database_postgresql-advanced-server-programming), [PostgreSQL](#PostgreSQL_postgresql-advanced-server-programming)
 
 ---
 
-<a name="Database_postgresql-advanced-server-programming"></a> 
+<a name="Database_postgresql-advanced-server-programming"></a> <a name="PostgreSQL_postgresql-advanced-server-programming"></a> 
 
 #### [PostgreSQL: Advanced Server Programming](https://www.pluralsight.com/courses/postgresql-advanced-server-programming)
 
@@ -424,7 +424,7 @@ Completed on **2022-01-13**
 
 [Certificate of Completion](documents/certificate-postgresql-advanced-server-programming.pdf)
 
-Topics: [Database](#Database_dotnet-document-databases-marten-getting-started)
+Topics: [Database](#Database_dotnet-document-databases-marten-getting-started), PostgreSQL
 
 ---
 
